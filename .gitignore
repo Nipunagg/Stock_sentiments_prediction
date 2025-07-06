@@ -1,2 +1,3 @@
 /env
-/config/setting
+/config/settings.py
+/__pycache__
