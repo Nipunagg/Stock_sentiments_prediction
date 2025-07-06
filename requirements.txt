@@ -1,0 +1,11 @@
+yfinance
+pandas
+numpy
+langchain
+langchain_groq
+streamlit
+requests
+schedule
+python-telegram-bot
+gspread
+pyTelegramBotAPI
